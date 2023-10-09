@@ -1,0 +1,32 @@
+{
+  "pins" : [
+    {
+      "identity" : "ferrostar",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/stadiamaps/ferrostar",
+      "state" : {
+        "branch" : "main",
+        "revision" : "16b7bd15dd858eaafd2b8f10906cc963ffb4f808"
+      }
+    },
+    {
+      "identity" : "maplibre-swiftui-dsl-playground",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/stadiamaps/maplibre-swiftui-dsl-playground",
+      "state" : {
+        "branch" : "main",
+        "revision" : "6199f3f502ad926653a9d5d1e12206f52f0aa55e"
+      }
+    },
+    {
+      "identity" : "swift-syntax",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-syntax.git",
+      "state" : {
+        "revision" : "6ad4ea24b01559dde0773e3d091f1b9e36175036",
+        "version" : "509.0.2"
+      }
+    }
+  ],
+  "version" : 2
+}
